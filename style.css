@@ -5,7 +5,7 @@ body {
     padding: 0;
     width: 100%;
     overflow: auto;
-    background-image: url(img/geometry.jpg);
+    background-image: url(img/wallpaper.jpg);
 }
 
 /* This stylizes the header area */
@@ -93,6 +93,8 @@ body {
 /* This shapes your like and dislike buttons */
 .likes,
 .dislikes {
+    color:rgb(255, 255, 255);
+    background-color: rgb(233, 159, 0);
     cursor: pointer;
     display: inline-block;
     font-size: 15px;
