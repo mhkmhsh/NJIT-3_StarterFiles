@@ -68,5 +68,33 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Gladiator II",
+            "iscore": 6.7,
+            "rating": "R",
+            "runtime": 148,
+            "released": [2024, 11, 22],
+            "country": "USA",
+            "posters": ["img/gladiator.webp", "img/glad2.webp", "img/glad.jpg"],
+            "imdb": "https://www.imdb.com/title/tt9218128/",
+            "website": "https://www.gladiator.movie/",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+       {
+            "title": "Gladiator II",
+            "iscore": 6.7,
+            "rating": "R",
+            "runtime": 148,
+            "released": [2024, 11, 22],
+            "country": "USA",
+            "posters": ["img/gladiator.webp", "img/glad2.webp", "img/glad.jpg"],
+            "imdb": "https://www.imdb.com/title/tt9218128/",
+            "website": "https://www.gladiator.movie/",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
       }
 ]
