@@ -15,12 +15,14 @@ body {
 .header h1 {
     display: inline-block;
     color: rgb(255, 196, 0);
+    
 }
 
 /* This stylizes the main page area */
 .main {
     background-color: #b80303;
     padding: 40px 0;
+    border-radius: 20px 20px 20px 5px;
 }
 
 /* This stylizes the poster area and poster images */
@@ -31,12 +33,14 @@ body {
     margin: 20px;
     border-radius: 0;
     background-color:#df9f74;
+    border-radius: 20px 20px 20px 5px;
 }
 .thumbnail img {
     margin-top: 10px;
     margin-bottom: 30px;
     padding: 5px;
     border: 2px dashed black;
+    border-radius: 20px 20px 20px 5px;
 }
 
 /* This stylizes your "Poster X of Y" text */
